@@ -1,0 +1,9 @@
+body {
+    background-image: url("../src/img/clima.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
